@@ -1,0 +1,11 @@
+{
+  "name": "kobo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KoBo – préparation physique adaptative pour les sports de combat",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@upstash/redis": "^1.34.3",
+    "web-push": "^3.6.7"
+  }
+}
